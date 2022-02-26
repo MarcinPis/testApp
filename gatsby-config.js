@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `Diogo Torres Correia`,
-    shortTitle: `Diogo Correia`,
-    description: `Hey, I'm Diogo Torres Correia from Portugal. I love programming, running, taking photos and learning new things!`,
-    author: `@diogotc2002`,
-    siteUrl: 'https://diogotc.com',
+    title: `Inigo Montoya`,
+    shortTitle: `Inigo Montoya`,
+    description: `Hello! My name is Inigo Montoya. You killed my father. Prepare to die.`,
+    author: `Inigo Montoya`,
+    siteUrl: 'https://ambitious-meadow-0efb73603.1.azurestaticapps.net/',
   },
   plugins: [
     `gatsby-plugin-top-layout`,
@@ -30,8 +30,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Diogo Torres Correia`,
-        short_name: `Diogo Correia`,
+        name: `Inigo Montoya`,
+        short_name: `Inigo Montoya`,
         start_url: `/`,
         background_color: `#1b1b1b`,
         theme_color: `#1b1b1b`,
@@ -60,7 +60,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'https://diogotc.com',
+        host: 'https://ambitious-meadow-0efb73603.1.azurestaticapps.net/',
         policy: [{ userAgent: '*', allow: '/' }],
       },
     },
