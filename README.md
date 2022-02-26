@@ -1,5 +1,13 @@
-# React basic
+# Diogo Correia's Personal Website
 
-[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build [React](https://reactjs.org/) apps in minutes. Use this repo with the [React quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=react) to build and customize a new static site.
+![Website Screenshot](https://github.com/diogotcorreia/dtc-website/blob/master/.gh/site_screenshot.png?raw=true)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can find a live version at [diogotc.com](https://diogotc.com).
+
+## Frameworks and packages used
+
+- [Gatsby](https://www.gatsbyjs.com/) (Based on [React](https://reactjs.org/))
+- [Material-UI](https://material-ui.com/)
+- [react-tsparticles](https://github.com/matteobruni/tsparticles)
+- [react-vertical-timeline-component](https://github.com/stephane-monnot/react-vertical-timeline)
+- ... and more!
